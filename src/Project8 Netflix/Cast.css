@@ -1,0 +1,23 @@
+.Cast {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  
+  .cast__movie {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  .cast__movie main {
+    cursor: pointer;
+  }
+  
+  .cast__movie img {
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  /* Add any additional styles as needed */
